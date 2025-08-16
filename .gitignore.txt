@@ -1,0 +1,20 @@
+# Ficheiros gerados pelo sistema de build
+/build
+/.idea
+/app/build
+*.iml
+
+# Ficheiros de configuração local (não devem ser partilhados)
+/local.properties
+.gradle
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Ficheiros de cache do Gradle
+.gradle/
+captures/
+.DS_Store
