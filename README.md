@@ -1,4 +1,4 @@
-# Planejador de Viagens (Teste Prático de Estágio)
+# Planejador de Viagens 
 
 ## 📖 Introdução
 
