@@ -2,7 +2,7 @@
 
 ## 📖 Introdução
 
-Este aplicativo é um planejador de atividades de viagem, desenvolvido como uma solução para um teste prático de estágio em desenvolvimento Android com Kotlin. O objetivo é permitir que os usuários criem, organizem e visualizem suas atividades de viagem de forma simples e eficiente, com um foco principal na qualidade do código, arquitetura e boas práticas de desenvolvimento.
+Este aplicativo é um planejador de atividades de viagem, desenvolvido como uma solução em desenvolvimento Android com Kotlin. O objetivo é permitir que os usuários criem, organizem e visualizem suas atividades de viagem de forma simples e eficiente, com um foco principal na qualidade do código, arquitetura e boas práticas de desenvolvimento.
 
 ## 📝 Premissas e Foco do Projeto
 
